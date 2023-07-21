@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Quintin Tuck, I am a Software Development Student at the College of the NOrth Atlantic in Newfoundland, Canada.
+My name is Quintin Tuck, I am a Software Development Student at the College of the North Atlantic in Newfoundland, Canada.
+
+
 
 So far through my studies and work oppurtunities I have gained experience in:
-- Python
+- Python ![python](https://img.shields.io/badge/Python)
 - MySQL and Database management
 - HTML and CSS
 - PHP
