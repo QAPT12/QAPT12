@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Quintin Tuck, I am a Software Development Student at the College of the NOrth Atlantic in Newfoundland, Canada.
+
+So far through my studies and work oppurtunities I have gained experience in:
+- Python
+- MySQL and Database management
+- HTML and CSS
+- PHP
+- JavaScript
+
+Check out a few of the projects ive worked on below! 😊
