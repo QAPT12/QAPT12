@@ -17,11 +17,8 @@ Here are some ideas to get you started:
 
 My name is Quintin Tuck, I am a Software Development Student at the College of the North Atlantic in Newfoundland, Canada.
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-
-
 So far through my studies and work oppurtunities I have gained experience in:
-- Python
+- Python 
 - MySQL and Database management
 - HTML and CSS
 - PHP
