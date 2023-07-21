@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 My name is Quintin Tuck, I am a Software Development Student at the College of the North Atlantic in Newfoundland, Canada.
 
 So far through my studies and work oppurtunities I have gained experience in:
-- Python 
+- Python [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
 - MySQL and Database management
 - HTML and CSS
 - PHP
