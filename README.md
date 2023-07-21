@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy 🤠
 
 <!--
 **QAPT12/QAPT12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- Site for badges: https://ileriayo.github.io/markdown-badges/-->
+
 My name is Quintin Tuck, I am a Software Development Student at the College of the North Atlantic in Newfoundland, Canada.
 
 So far through my studies and work oppurtunities I have gained experience in:
-- Python [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
-- MySQL and Database management
-- HTML and CSS
-- PHP
-- JavaScript
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)	![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 Check out a few of the projects ive worked on below! 😊
