@@ -20,7 +20,7 @@ My name is Quintin Tuck, I am a Software Development Student at the College of t
 
 
 So far through my studies and work oppurtunities I have gained experience in:
-- Python ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+- Python
 - MySQL and Database management
 - HTML and CSS
 - PHP
