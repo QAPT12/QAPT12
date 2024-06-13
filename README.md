@@ -31,5 +31,3 @@ Through my studies and work opportunities I have gained experience in some of th
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 Check out a few of the projects I've worked on below! 
-
-https://qapt12.github.io/
